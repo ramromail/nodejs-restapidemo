@@ -3,6 +3,9 @@
 
 ### The API in this example is used to create, read, delete and update notes. Notes are stored in SqliteDB.
 
+### This demo is based on this [video tutorial](https://yewtu.be/watch?v=fsCjFHuMXj0). The only difference is that I am using local Sqlite instead of an online MongoDB used in the video.
+  
+
 
 # SqliteDB
 ### Sqlite is used to store the notes in a file, inside the db folder.
